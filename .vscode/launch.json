@@ -4,9 +4,9 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Your own server",
-            "server": "http://localhost",
-            "serverInstance": "BC130",
+            "name": "Azzure Container",
+            "server": "https://MarcellNAV.southeastasia.azurecontainer.io",
+            "serverInstance": "NAV",
             "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
